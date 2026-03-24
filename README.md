@@ -4,7 +4,7 @@
 **Authors:** [Nan Zhou](mailto:zhounan0431@buaa.edu.cn), [Huiqun Wang](mailto:hqwangscse@buaa.edu.cn), [Yaoyan Zheng](mailto:yaoyanzheng@buaa.edu.cn), [Di Huang](mailto:dhuang@buaa.edu.cn) (Corresponding author)  
 **Affiliation:** State Key Laboratory of Complex and Critical Software Environment & School of Computer Science and Engineering, Beihang University
 
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-red)]()
+[![Paper](https://img.shields.io/badge/Paper-ArXiv-red)](https://arxiv.org/abs/2603.21077)
 [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/weeknan/CoVFT)
 
 ---
