@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and outputs
+*.log
+*.bak
+*.bak.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and training outputs (large files)
+checkpoint-*/
+output/
+runs/
+wandb/
+
+# Evaluation answers (generated at runtime)
+playground/data/eval/*/answers/
+playground/data/eval/*/*/answers/
